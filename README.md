@@ -4,7 +4,7 @@
 
 ## designing a new product card animation
 
-full responsive link: ()
+full responsive link: (https://mkhaque1.github.io/product-card-hover/)
 
 ## Getting Started
 
